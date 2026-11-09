@@ -1,9 +1,17 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int output = 0;
-        for(int i = 0; i < nums.length; i++){
-            output = output ^ nums[i];
+      for(int i = 0; i<nums.length; i++){
+        boolean unique = true;
+        for(int j = 0; j<nums.length; j++){
+            if( i != j && nums[i] == nums[j]){
+                unique = false;
+                break;
+            }
         }
-        return output;
+        if(unique){
+            return nums[i];
+        }
+      }
+      return -1; 
     }
 }
