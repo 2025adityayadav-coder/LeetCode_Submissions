@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/2025adityayadav-coder/LeetCode_Submissions/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/2025adityayadav-coder/LeetCode_Submissions/tree/master/0136-single-number) |
 | [1480-running-sum-of-1d-array](https://github.com/2025adityayadav-coder/LeetCode_Submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/2025adityayadav-coder/LeetCode_Submissions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/2025adityayadav-coder/LeetCode_Submissions/tree/master/1920-build-array-from-permutation) |
@@ -30,5 +31,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/2025adityayadav-coder/LeetCode_Submissions/tree/master/0136-single-number) |
 | [1486-xor-operation-in-an-array](https://github.com/2025adityayadav-coder/LeetCode_Submissions/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
